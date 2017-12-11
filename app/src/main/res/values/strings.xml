@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">动态权限申请</string>
+    <string name="perm_apply_title">权限申请</string>
+    <string name="perm_apply_msg">电话权限、存储权限为必选项，为保证您能够正常使用淘师网，请允许这些权限。</string>
+    <string name="perm_setting_msg">电话权限、存储权限为必选项，为保证您能够正常使用淘师网，请到设置->应用->权限中开启。</string>
+    <string name="apply">申请</string>
+    <string name="goto_setting">去设置</string>
+    <string name="cancel">取消</string>
+</resources>
